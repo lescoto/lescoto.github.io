@@ -15,7 +15,6 @@ h1 {
     font-size: 3.5rem; /* x.xrem  (rem is a unit of measure) */;
     color: rgb(245, 245, 245) /* #xxxxxx */;
 }
-
 h2 {
     font-size: 2rem /* x.xrem */;
     text-align: center;
@@ -41,5 +40,5 @@ header img {
 }
 
 footer {
-    font-size: .8rem/* smaller */;
+    font-size: .8 rem/* smaller */;
 }
